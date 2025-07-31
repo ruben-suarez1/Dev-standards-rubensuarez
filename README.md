@@ -1,2 +1,21 @@
-# Dev-standards-rubensuarez
-Repositorio de estándares y buenas prácticas de desarrollo frontend orientado a proyectos eCommerce (VTEX). Incluye plantillas reutilizables, convenciones de commits, estructura de ramas, guidelines para PRs y más.
+# Dev Standards – Rubén Suárez
+
+Este repositorio contiene una colección de plantillas y estándares para estandarizar el desarrollo frontend en proyectos eCommerce, incluyendo prácticas para VTEX y más.
+
+## 📄 Plantillas disponibles
+
+- [Pull Request Template](./standards/pull_request_template.md)
+
+## 🧩 Objetivo
+
+- Asegurar consistencia entre equipos
+- Mejorar la legibilidad del código y documentación
+- Agilizar el proceso de revisión y QA
+
+## 🛠️ Pendientes
+
+- Convención para mensajes de commit
+- Convención de nombres para ramas
+- Estructura base para documentación técnica
+
+---
